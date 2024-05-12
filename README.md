@@ -37,3 +37,5 @@ camera works with the help of different image processing techniques.
   ```bash 
   python Virtual_Mouse.py
   ```
+#### Results : (I should have uploaded a video instead!! :disappointed: )
+  ![alt text](https://github.com/harishhgowda/AI-Virtual-Mouse/blob/main/Result.png)
